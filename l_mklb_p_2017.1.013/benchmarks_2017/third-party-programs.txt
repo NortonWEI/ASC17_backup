@@ -1,0 +1,47 @@
+This text file is the "third-party-programs.txt" file specified in the accompanying End User License Agreement for the Intel(R) Software Development Products ("Agreement"). All capitalized terms used but not defined in this text file have the same meaning as specified in the Agreement.
+
+The Third Party Programs files and the corresponding third party licenses are listed below.  As specified in the Agreement, the listed Third Party Programs files are subject to the corresponding third party licenses that solely and exclusively govern Your use of the Third Party Programs.
+
+This third-party-programs.txt file applies to Intel(R) Parallel Studio XE 2017 Update 1
+
+This third-party-programs.txt file contains a list of licenses and links to the Parallel Studio XE components' third-party-programs.txt files.
+
+The combination of all these files covers Intel(R) Parallel Studio XE 2017 Update 1 Composer, Professional and Cluster Editions.
+
+All paths are relative to the Intel(R) Parallel Studio XE installation directory. By default, it is /opt/intel
+
+List of Third Party Programs:
+
+Intel(R) C++ Compiler <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/compiler/c/en/third-party-programs.txt
+Intel(R) Fortran Compiler <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/compiler/fortran/en/third-party-programs.txt
+Intel(R) Math Kernel Library (Intel(R) MKL) <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/mkl/en/third-party-programs.txt
+Intel(R) Integrated Performance Primitives (Intel(R) IPP) <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/ipp/en/third-party-programs.txt
+Intel(R) Threading Building Blocks (Intel(R) TBB) <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/tbb/en/third-party-programs.txt
+Intel(R) Data Analytics Acceleration Library (Intel(R) DAAL) <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/daal/en/third-party-programs.txt
+
+* The GNU* Project Debugger, GDB: Provided under GNU General Public License GPL V3.
+* Ncurses: Provided under modified MIT License.
+* Expat: Provided under MIT License.
+* Zlib: Provided under zlib License.
+* The Python 2.7.5: Provided under Python Software Foundation (PSF) License.
+* The GDB Eclipse Integration: Provided under Eclipse Public License v.1.0.
+* libelfdwarf: Provided under GNU Lesser General Public License Version 2.1.
+<install_dir>/parallel_studio_xe_2017.1.<package number>/licensing/gdb/en/third-party-programs.txt
+
+
+NOTE: Files and licenses of Intel(R) Advisor, Intel(R) Inspector, Intel(R) VTune(TM) Amplifier XE
+listed below are applicable to Intel(R) Parallel Studio XE 2017 Update 1 Professional and Cluster Editions only.
+
+Intel(R) Advisor <install_dir>/advisor/documentation/en/third-party-programs.txt
+Intel(R) Inspector <install_dir>/inspector/documentation/en/third-party-programs.txt
+Intel(R) VTune(TM) Amplifier XE <install_dir>/vtune_amplifier_xe/documentation/en/third-party-programs.txt
+
+NOTE: Files and licenses of Intel(R) MPI Library, Intel(R) Trace Analyzer and Collector, and Intel(R) Cluster Checker
+listed below are applicable to Intel(R) Parallel Studio XE 2017 Update 1 Cluster Edition only.
+
+Intel(R) MPI Library <install_dir>/compilers_and_libraries_2017.1.<package number>/licensing/mpi/en/third-party-programs.txt
+Intel(R) Trace Analyzer and Collector <install_dir>/itac_latest/third-party-programs.txt
+Intel(R) Cluster Checker <install_dir>/clck_latest/doc/third-party-programs.txt
+
+* Other names and brands may be claimed as the property of others.
+

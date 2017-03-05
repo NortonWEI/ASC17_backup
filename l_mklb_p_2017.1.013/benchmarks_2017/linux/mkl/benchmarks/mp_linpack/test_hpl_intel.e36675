@@ -1,0 +1,7 @@
+HPL ERROR from process # 0, on line 513 of function HPL_pdinfo:
+>>> Need at least 16 processes for these tests <<<
+
+HPL ERROR from process # 0, on line 823 of function HPL_pdinfo:
+>>> Illegal input in file HPL.dat. Exiting ... <<<
+
+[0] Intel(R) Trace Collector INFO: Writing tracefile xhpl.stf in /home/asc0004/norton/l_mklb_p_2017.1.013/benchmarks_2017/linux/mkl/benchmarks/mp_linpack

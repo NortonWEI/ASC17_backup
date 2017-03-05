@@ -1,0 +1,9 @@
+#PBS -N myjob
+
+#PBS -l nodes=1:ppn=256
+
+source /opt/intel/bin/compilervars.sh intel64
+
+#NP=`cat $PBS_NODEFILE | wc -l`
+
+/home/asc0004/norton/l_mklb_p_2017.1.013/benchmarks_2017/linux/mkl/benchmarks/mp_linpack/xhpl

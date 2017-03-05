@@ -1,0 +1,5 @@
+#PBS -N myjob
+#PBS -l nodes=1:ppn=256
+source /opt/intel/bin/compilervars.sh intel64
+NP=`cat $PBS_NODEFILE | wc -l`
+mpirun -np 64 /home/asc0004/norton/xhpl
